@@ -1,1 +1,1 @@
-c-programming
+pointers-arrays-strings in c
