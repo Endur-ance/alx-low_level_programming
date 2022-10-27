@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/**
+ * main - program entry point
+ * Description - dreams dosen't become reality through magic
+ * Return: 0 always
+ *
+ */
 int main(void)
 {
 	int n;
